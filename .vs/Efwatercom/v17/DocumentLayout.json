@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\data\\globalconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:data\\globalconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\data\\accountdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:data\\accountdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\pom\\account_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:pom\\account_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\testmethods\\account_testmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:testmethods\\account_testmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\helpers\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:helpers\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\helpers\\managedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:helpers\\managedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\data\\categorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:data\\categorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\assistantmethods\\category_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:assistantmethods\\category_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\efwatercom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:efwatercom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\testmethods\\report_testmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:testmethods\\report_testmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\testmethods\\category_testmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:testmethods\\category_testmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\assistantmethods\\report_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:assistantmethods\\report_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\pom\\report_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:pom\\report_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\pom\\categories_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:pom\\categories_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\assistantmethods\\account_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:assistantmethods\\account_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|c:\\users\\moalgharx\\source\\repos\\efwatercom\\assistantmethods\\login_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCB1009-65DC-4D29-BA77-1C6AF1E615A2}|Efwatercom.csproj|solutionrelative:assistantmethods\\login_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalConstant.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Data\\GlobalConstant.cs",
+              "RelativeDocumentMoniker": "Data\\GlobalConstant.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Data\\GlobalConstant.cs",
+              "RelativeToolTip": "Data\\GlobalConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:12:15.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account_POM.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\POM\\Account_POM.cs",
+              "RelativeDocumentMoniker": "POM\\Account_POM.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\POM\\Account_POM.cs",
+              "RelativeToolTip": "POM\\Account_POM.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwBMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:35:02.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountData.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Data\\AccountData.cs",
+              "RelativeDocumentMoniker": "Data\\AccountData.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Data\\AccountData.cs",
+              "RelativeToolTip": "Data\\AccountData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:39:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account_TestMethode.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\TestMethods\\Account_TestMethode.cs",
+              "RelativeDocumentMoniker": "TestMethods\\Account_TestMethode.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\TestMethods\\Account_TestMethode.cs",
+              "RelativeToolTip": "TestMethods\\Account_TestMethode.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:14:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommonMethods.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Helpers\\CommonMethods.cs",
+              "RelativeDocumentMoniker": "Helpers\\CommonMethods.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Helpers\\CommonMethods.cs",
+              "RelativeToolTip": "Helpers\\CommonMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:51:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageDriver.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Helpers\\ManageDriver.cs",
+              "RelativeDocumentMoniker": "Helpers\\ManageDriver.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Helpers\\ManageDriver.cs",
+              "RelativeToolTip": "Helpers\\ManageDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:51:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report_POM.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\POM\\Report_POM.cs",
+              "RelativeDocumentMoniker": "POM\\Report_POM.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\POM\\Report_POM.cs",
+              "RelativeToolTip": "POM\\Report_POM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:01:36.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryData.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Data\\CategoryData.cs",
+              "RelativeDocumentMoniker": "Data\\CategoryData.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Data\\CategoryData.cs",
+              "RelativeToolTip": "Data\\CategoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:39:49.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Category_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "AssistantMethods\\Category_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Category_AssistantMethods.cs",
+              "RelativeToolTip": "AssistantMethods\\Category_AssistantMethods.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:36:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Report_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Report_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "AssistantMethods\\Report_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Report_AssistantMethods.cs",
+              "RelativeToolTip": "AssistantMethods\\Report_AssistantMethods.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:02:06.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Efwatercom.csproj",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Efwatercom.csproj",
+              "RelativeDocumentMoniker": "Efwatercom.csproj",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\Efwatercom.csproj",
+              "RelativeToolTip": "Efwatercom.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T15:14:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category_TestMethode.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\TestMethods\\Category_TestMethode.cs",
+              "RelativeDocumentMoniker": "TestMethods\\Category_TestMethode.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\TestMethods\\Category_TestMethode.cs",
+              "RelativeToolTip": "TestMethods\\Category_TestMethode.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:14:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report_TestMethode.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\TestMethods\\Report_TestMethode.cs",
+              "RelativeDocumentMoniker": "TestMethods\\Report_TestMethode.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\TestMethods\\Report_TestMethode.cs",
+              "RelativeToolTip": "TestMethods\\Report_TestMethode.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:14:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categories_POM.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\POM\\Categories_POM.cs",
+              "RelativeDocumentMoniker": "POM\\Categories_POM.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\POM\\Categories_POM.cs",
+              "RelativeToolTip": "POM\\Categories_POM.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAABZwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:55:05.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Account_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Account_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "AssistantMethods\\Account_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Account_AssistantMethods.cs",
+              "RelativeToolTip": "AssistantMethods\\Account_AssistantMethods.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:51:26.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Login_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "AssistantMethods\\Login_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\moalgharX\\source\\repos\\Efwatercom\\AssistantMethods\\Login_AssistantMethods.cs",
+              "RelativeToolTip": "AssistantMethods\\Login_AssistantMethods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:13:40.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
